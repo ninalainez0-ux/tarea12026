@@ -1,0 +1,31 @@
+.articulo{
+    background: #edf8eb;
+    border: solid 1px #647865;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    width: 450px;
+    overflow: hidden;
+    height: 400px;
+    margin: 20px;
+    padding: 10px;
+    text-align: justify;
+}
+
+.articulo img{
+    float: right;
+    padding: 10px;
+}
+
+.articulo .imageIz{
+    float: left;
+    padding: 10px;
+}
+
+.articuloh1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #1d24b3;
+
+}
